@@ -1,8 +1,11 @@
 [package]
 name = "pcg_with_xorshift"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
-
+authors = ["ink-carp  <18020970773@163.com>"]
+license = "Apache-2.0"
+description="a tiny random number generator"
+repository = "https://github.com/ink-carp/pcg_with_xorshift"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
